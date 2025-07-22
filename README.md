@@ -53,9 +53,9 @@ Used scatter plot to find out frequency of bookings done by each segment
 - Booking frequency and amount paid was more by occasional and VIP Guests. Loyal Guests remained at middle level whereas first time spent minimum amount with less booking frequency
 - can introduce offers for first time customers to increase their interest and retention into the resort.
 
-### Guest Booking Summary shows an overall summary of amount paid and booking frequency by each customer
+#### Guest Booking Summary shows an overall summary of amount paid and booking frequency by each customer
 
-### Age group distribution shows that percentage of Middle Age customers is more as compared to young adults - social media marketing can be used to target young customers.
+#### Age group distribution shows that percentage of Middle Age customers is more as compared to young adults - social media marketing can be used to target young customers.
 
 ---
 ## Recommendations
